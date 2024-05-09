@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    min-height: 100vh;
+    max-width: 800px;
+    gap: 72px;
+    padding: 14px;
+    width: 100%;
+}
