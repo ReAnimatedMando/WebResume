@@ -9,8 +9,18 @@ body {
 }
 h1 {
     font-weight: 3.0rem;
+    font-size: 52px;
 }
 nav .email {
     text-decoration: none;
     color: black;
+    border: 1px solid black;
+    margin-top: 0;
+    padding: 2px;
+}
+
+hr {
+    border: 1px solid black;
+    border-radius: 100%;
+    margin-top: 12px;
 }
