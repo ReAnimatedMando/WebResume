@@ -28,3 +28,12 @@ hr {
     border-radius: 100%;
     margin-top: 12px;
 }
+
+h2 {
+    text-decoration: underline;
+}
+
+p {
+    display: flex;
+    justify-content: flex-end;
+}
